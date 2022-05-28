@@ -5,7 +5,12 @@
 ## Abstract
 
 This Jupyter Notebook is a showcase of various machine learning modelling methods, as well as data treatment methods and model evaluation.
-Dataset
+
+- The 1st notebook includes the exploratory data analysis
+- The 2nd notebook includes the data preprocessing needed before implementing the models
+- The 3rd notebook includes a first attempt of model implementation, the model's performance can still be improved
+- The 4th notebook includes some experiment aimed to improve the model performance, which is finally achieved
+
 
 The data have been downloaded from https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients. The data show information about default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 
